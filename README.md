@@ -1,2 +1,2 @@
-CS2700
+CS2700 Fluid Physics
 ======
